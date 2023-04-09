@@ -6,9 +6,6 @@
 Hosted in Netlify -> [HeroGadget](https://herogadget.netlify.app/)
 
 
-## Complete Project
-Github Repo -> [heroGadget-complete](https://github.com/shakilahmedatik/heroGadget-complete)
-
 
 ## React Router Dom v6.4 
 Documentation Link -> [Link](https://reactrouter.com/en/main/start/overview)
